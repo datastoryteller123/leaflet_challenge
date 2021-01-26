@@ -23,10 +23,14 @@ Your first task is to visualize an earthquake data set.
    
   
   Folders consists of the following:
+  
   leaflet-step-1:
+  
     static:
+    
       css:
         style: contains the style of the html
+        
       js:
         config.js contains the API Key
         logic.js contains the code to create the map using markers to reflect the magnitude of the earthquakes
