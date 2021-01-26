@@ -28,6 +28,7 @@ Your first task is to visualize an earthquake data set.
       css:
         style: contains the style of the html
       js:
+        config.js contains the API Key
         logic.js contains the code to create the map using markers to reflect the magnitude of the earthquakes
       
     index.html: Displays the map from the logic.js and style.js
